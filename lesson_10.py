@@ -227,7 +227,6 @@ import time
 
 
 # LEGB - local, enclosing, global, build-in
-
 # def calculate_pow(n): # охоплююча функція
 #     def calculate(number): # Вкладена функція
 #         print(locals())
