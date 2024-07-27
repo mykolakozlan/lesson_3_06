@@ -5,15 +5,15 @@
 
 
 # def popular_words(txt, wrds):
-#     text_words = txt.lower().split()
-#     return {word: text_words.count(word) for word in wrds}
-#
-#
-#     # popular_dict_words = {word: 0 for word in words}
-#
-#     # for word in text_words:
-#     #     if word in words:
-#     #         popular_dict_words[word] = text_words.count(word)
+#     _text_words = txt.lower().split()
+#     return {word: _text_words.count(word) for word in wrds}
+
+
+    # popular_dict_words = {word: 0 for word in words}
+
+    # for word in text_words:
+    #     if word in words:
+    #         popular_dict_words[word] = text_words.count(word)
 #
 #
 #
